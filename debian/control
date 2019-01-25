@@ -1,0 +1,13 @@
+Source: n4d-remote-gui-plugin
+Section: admin
+Priority: optional
+Maintainer: LliureX Team <lliurex@gva.es>
+Build-Depends: debhelper (>= 7.0)
+Standards-Version: 3.9.7
+
+Package: n4d-remote-gui-plugin
+Architecture: all
+Depends: ${misc:Depends}, n4d, python, xserver-xephyr
+Description: N4D Remote GUI plugin
+ N4D plugin allowing to launch GUIs remotely.
+ 
