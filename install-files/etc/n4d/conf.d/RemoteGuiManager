@@ -1,0 +1,6 @@
+[SETUP]
+type=python
+path=RemoteGuiManager.py
+class=RemoteGuiManager
+[METHODS]
+remote_execute=anonymous

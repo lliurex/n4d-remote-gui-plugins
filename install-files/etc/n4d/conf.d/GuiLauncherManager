@@ -1,0 +1,7 @@
+[SETUP]
+type=python
+path=GuiLauncherManager.py
+class=GuiLauncherManager
+[METHODS]
+register_display=adm,admins
+(ip)execute=adm,admins
