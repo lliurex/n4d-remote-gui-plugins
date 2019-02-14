@@ -3,5 +3,5 @@ type=python
 path=GuiLauncherManager.py
 class=GuiLauncherManager
 [METHODS]
-register_display=adm,admins
-(ip)execute=adm,admins
+register_display=sudo,admins
+(ip)execute=sudo,admins
